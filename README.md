@@ -1,3 +1,3 @@
 # Primer repositorio
-testing 123 
- ¯\_(ツ)_/¯  ¯\_(ツ)_/¯  ¯\_(ツ)_/¯  ¯\_(ツ)_/¯  ¯\_(ツ)_/¯  ¯\_(ツ)_/¯  ¯\_(ツ)_/¯
+
+ ¯\_(ツ)_/¯  Todo lo que aprendí en clase ¯  ¯\_(ツ)_/¯
